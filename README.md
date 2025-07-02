@@ -30,4 +30,3 @@ This project predicts whether a student will be placed or not based on their CGP
 - `placement_model.pkl`: Trained ML model
 - `scaler.pkl`: StandardScaler used in training
 - `requirements.txt`: Dependencies
-- `.gitignore`: Prevents uploading environment files
